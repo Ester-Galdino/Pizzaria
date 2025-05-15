@@ -1,0 +1,51 @@
+
+
+.head {
+
+ font-size: 30px;
+    color: brown ;
+    font-family: Brush Script MT;
+    text-align: center;
+    gap: 20px; /* Espaço entre imagem e texto */
+    display: flex;
+    padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    
+}
+
+.head img {
+    width: 140px; /* Ajuste o tamanho da imagem */
+  height: auto;
+  align-items: center;
+
+}
+
+.retangulo {
+    width: 100%;       /* Largura do retângulo */
+  height: 50px;      /* Altura do retângulo */
+  background-color: darkgreen;  /* Cor de fundo */
+}
+
+.confira {
+    font-size: 30px;
+    color: darkred;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+.salgadas {
+    font-size: 20px;
+    font-family: Comic Sans MS ;
+    
+}
+
+.pizza1 {
+    border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+}
+
+.pizza1 h1{
+    font-size: larger;
+}
